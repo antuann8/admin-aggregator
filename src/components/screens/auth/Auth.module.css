@@ -1,0 +1,23 @@
+/* @import '/src/assets/styles/variables';
+
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background-color: $sidebarFone;
+	color: #fff;
+}
+
+.button {
+	margin-top: 10px;
+	text-align: center;
+	width: 100%;
+} */
+.title {
+	font-family:
+		Greycliff CF,
+		var(--mantine-font-family);
+	font-weight: 900;
+}
